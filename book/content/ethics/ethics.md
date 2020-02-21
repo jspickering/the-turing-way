@@ -9,12 +9,19 @@
 
 ## Summary
 > easy to understand summary - a bit like tl;dr
+This chapter aims to provide a basic understanding of ethics including:
+- What ethics are
+- Why ethics are important
+- How to navigate ethical issues in research
 
 ## How this will help you/ why this is useful
 > why we think you should read the whole thing
 
 ## Chapter content
 > depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+
+
+
 
 ## Checklist
 > this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
